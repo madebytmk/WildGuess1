@@ -1,0 +1,47 @@
+.side-borderpane {
+    -fx-border-color: lightgray;
+    -fx-border-width: 1px;
+    -fx-padding: 10px; 
+    -fx-background-color: white;
+}
+
+.top-borderpane {
+    -fx-border-color: lightgray;
+    -fx-border-width: 1px;
+    -fx-padding: 10px; 
+    -fx-background-color: white;
+}
+
+.center-borderpane {
+    -fx-background-color: #dae0e6;
+}
+
+.button {
+    -fx-background-color: #dae0e6; /* Background color */
+    -fx-font-size: 14px; /* Font size */
+    -fx-border-radius: 15px; /* Rounded corners */
+    -fx-background-radius: 15px;
+    -fx-padding: 5px 10px;
+    /* Add any other properties you need */
+}
+
+.text-field {
+
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+    -fx-background-color: white;
+    -fx-padding: 5px;
+}
+
+.guess-b {
+    -fx-background-color: lightblue; /* Background color */
+    -fx-font-size: 14px; /* Font size */
+    -fx-border-radius: 15px; /* Rounded corners */
+    -fx-background-radius: 15px;
+    -fx-padding: 5px 10px;
+    /* Add any other properties you need */
+}
+
+.guess-label {
+    -fx-padding: 55 0 0 0;
+}
